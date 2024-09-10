@@ -12,6 +12,9 @@ permissions:
   contents: read
 
 jobs:
+  setup-docker:
+    name: Runner fetch
+    runs-on: self-hosted
   integration:
     name: Continuous Integration
     runs-on: ubuntu-latest

@@ -38,9 +38,9 @@ Run this to export as env variables:
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/SuhasMeda/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC.mlflow
 
-export MLFLOW_TRACKING_USERNAME=SuhasMeda 
+export MLFLOW_TRACKING_USERNAME=****** 
 
-export MLFLOW_TRACKING_PASSWORD=f8be4dfc581e33bc1a852185bf99520630f
+export MLFLOW_TRACKING_PASSWORD=******
 
 ```
 

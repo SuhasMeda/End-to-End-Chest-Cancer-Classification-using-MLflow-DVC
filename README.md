@@ -28,8 +28,8 @@
 [dagshub](https://dagshub.com/)
 
 MLFLOW_TRACKING_URI=https://dagshub.com/SuhasMeda/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC.mlflow \
-MLFLOW_TRACKING_USERNAME=SuhasMeda \
-MLFLOW_TRACKING_PASSWORD=f8be4dfc581e33bc1a852185bf99520630f \
+MLFLOW_TRACKING_USERNAME=****** \
+MLFLOW_TRACKING_PASSWORD=****** \
 python script.py
 
 Run this to export as env variables:
